@@ -1,0 +1,6 @@
+Part 1 of the compiler for the Compiler Design Module.
+
+The instructions stated have been followed, however please note that,
+1. The C++ used follows the c++11.
+2. The .tar also contains the winzing_test_programs
+3. The .tree files originally contain an underscore before the number. This is opposed to the command mentioned in the project description.
